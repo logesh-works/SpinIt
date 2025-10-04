@@ -8,11 +8,7 @@ Download it from here -> [SpinIt  1.0](https://github.com/logesh-works/SpinIt/re
 
 # Demo
 
-<video src="src/assets/demo.mp4" controls muted playsinline>
-Your browser does not support the video tag. You can download the demo below.
-</video>
-
-[Watch the demo video](src/assets/demo.mp4)
+[▶️ Watch the demo video on Jumpshare](https://jumpshare.com/v/Q9vjaLBNszZLHxtk9gQU)
 
 ## Table of contents
 - [Quick start](#quick-start)
