@@ -1,6 +1,10 @@
 # SpinIt
 
+![SpinIt home screen](src/assets/SpinIt.png)
+
 SpinIt is for random spin that choose random value
+
+Download it from here -> [SpinIt  1.0](https://github.com/logesh-works/SpinIt/releases/download/init/SpinIt_v1.0.apk)
 
 ## Table of contents
 - [Quick start](#quick-start)
@@ -8,8 +12,6 @@ SpinIt is for random spin that choose random value
 - [Contributing](#contributing)
 - [Reporting issues](#reporting-issues)
 - [Pull request checklist](#pull-request-checklist)
-- [Code of conduct](#code-of-conduct)
-- [License](#license)
 
 ## Quick start
 These instructions assume you have a working React Native environment. If not, follow the official React Native docs for environment setup: https://reactnative.dev/docs/environment-setup
@@ -105,4 +107,5 @@ App crashes with a red error screen
 - App branch: main
 ```
 
----
+## Download APK
+[Download SpinIt v1.0](https://github.com/logesh-works/SpinIt/releases/download/init/SpinIt_v1.0.apk)
