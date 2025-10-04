@@ -6,6 +6,12 @@ SpinIt is for random spin that choose random value
 
 Download it from here -> [SpinIt  1.0](https://github.com/logesh-works/SpinIt/releases/download/init/SpinIt_v1.0.apk)
 
+# Demo
+
+<video src="src/assets/demo.mp4" autoplay controls>
+Your browser does not support the video tag.
+</video>
+
 ## Table of contents
 - [Quick start](#quick-start)
 - [Development](#development)
